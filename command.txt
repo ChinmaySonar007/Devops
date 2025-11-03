@@ -1,2 +1,12 @@
 ls
 pwd,cp,mkdir,mv,cd,rm, history,df,du,free,uname-a,man,whatis,date,w,echo,exit,head, shutdown 
+
+
+docker commands
+
+version,login,images,pull image ,pull image tag,images --help,docker run image,ps,start,pause,top,stop,stats,inspect image,rm container,rmi image:tag,commit,push,history image,logs,info
+
+
+git commands
+
+-version,init,status,add filename,clone,commit -m,log,diff,branch,stash,restore filename,branch,checkout,rm filename,tag,reflog,config,show,blame filename,rev-parse -- short HEAD
