@@ -1,0 +1,2 @@
+ls
+pwd,cp,mkdir,mv,cd,rm, history,df,du,free,uname-a,man,whatis,date,w,echo,exit,head, shutdown 
